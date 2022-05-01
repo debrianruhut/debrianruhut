@@ -1,9 +1,7 @@
-# Hi, welcome to My Repository 👋
-
-## Introduction
+# Hi, welcome to My Github Repository 👋
 **Greetings** my name is **Debrian Ruhut Saragih** aka. ✨**debrianruhut**✨, I'm a self-taught passionate Web Developer. I like various things related to IT development, as well as solving problems with the help of computer applications.
 
-## My Websites:
+## Websites:
 - 🤖 [debrianruhut.web.id](https://debrianruhut.web.id) / Personal Blog
 - 🤖 [KuliKode.com](https://kulikode.com) / Personal Corporate
 - 🤖 [MahasiswaOnline.com](https://mahasiswaonline.com) / Personal Project
@@ -11,7 +9,7 @@
 - 🤖 [EkonomiKreatif.com](https://ekonomikreatif.com) / Charity Project
 
 
-## My Activities
+## Activities
 - 🐘 Mostly my project using **PHP (Laravel Framework)**, because it easy to deploy and my client want me to use it, sometimes **Native PHP** only to proof **bussines logic** and then migrate it to other languages (Python, etc).
 - 🐍 I Create **python** script to scraping or crawling datas online, create several script for reading API, and hacking. I am not good in python, but i can debug and troubleshoot it.
 - 🥞 Mostly i use **MYSQL/MARIADB**.
@@ -23,8 +21,9 @@
 - 🔐 I know about **IT Security**, Penetration system, I am Uncertified Ethical Hacker.
 - 📉 Mostly my project using *git*, I host public git on Github, private git on Gitlab and Bitbucket. I manage how developer merge the project and do code review.
 
-## My Passion
-Adapt to new environment and IT Technology, and give solution along with best practices.
+## Passion
+- ❤️ Adapt to new environment and IT Technology, and give solution along with best practices.
+- ❤️ Share insights through online media [medium.com](https://medium.com/@debrianruhut)
 
 ## Statistics
 
