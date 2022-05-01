@@ -11,7 +11,7 @@
 - 🤖 [EkonomiKreatif.com](https://ekonomikreatif.com) / Charity Project
 
 
-## My Activity
+## My Activities
 - 🐘 Mostly my project using **PHP (Laravel Framework)**, because it easy to deploy and my client want me to use it, sometimes **Native PHP** only to proof **bussines logic** and then migrate it to other languages (Python, etc).
 - 🐍 I Create **python** script to scraping or crawling datas online, create several script for reading API, and hacking. I am not good in python, but i can debug and troubleshoot it.
 - 🥞 Mostly i use **MYSQL/MARIADB**.
