@@ -1,5 +1,5 @@
 # Hi, welcome to My Github Repository 👋
-**Greetings** my name is **Debrian Ruhut Saragih** aka. ✨**debrianruhut**✨, I'm a self-taught passionate Web Developer. I like various things related to IT development, as well as solving problems with the help of computer applications.
+**Greetings** my name is **Debrian Ruhut Saragih** aka. ✨**debrianruhut**✨, I'm a self-taught passionate Web Developer. I like various things related to IT development, as well as solving problems with the help of computer applications (computational thinking).
 
 ## Websites:
 - 🤖 [debrianruhut.web.id](https://debrianruhut.web.id) / Personal Blog
