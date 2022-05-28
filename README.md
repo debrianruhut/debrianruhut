@@ -4,9 +4,10 @@
 ## Websites:
 - 🤖 [debrianruhut.web.id](https://debrianruhut.web.id) / Personal Blog
 - 🤖 [KuliKode.com](https://kulikode.com) / Personal Corporate
-- 🤖 [MahasiswaOnline.com](https://mahasiswaonline.com) / Personal Project
-- 🤖 [KidungOnline.com](https://kidungonline.com) / Charity Project
-- 🤖 [EkonomiKreatif.com](https://ekonomikreatif.com) / Charity Project
+- 🤖 [MahasiswaOnline.com](https://mahasiswaonline.com) / Mencari bahan kuliah cepat dan mudah dari berbagai Universitas!
+- 🤖 [Solugram.com](https://solugram.com) / Kumpulan tools dan frameworks problem solving dan critical thinking
+- 🤖 [KidungOnline.com](https://kidungonline.com) / Kumpulan lagu-lagu rohani KJ, PKJ dan NKB
+- 🤖 [EkonomiKreatif.com](https://ekonomikreatif.com) / Kumpulan Artikel Seputar Ekonomi Kreatif
 
 
 ## Activities
