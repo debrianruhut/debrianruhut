@@ -37,4 +37,9 @@
 ![GitHub Top Forked Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-fork-repos?username=debrianruhut&repo_count=7&theme=tokyonight)
 
 ## Contacts
-💬 Ask me about anything [here](https://github.com/debrianruhut/debrianruhut/issues)
+- 💬 [Github Issues](https://github.com/debrianruhut/debrianruhut/issues)
+- 💬 [LinkedIn](https://www.linkedin.com/in/debrian-ruhut-saragih/)
+- 💬 [Instagram](https://www.instagram.com/debrianruhut/)
+- 💬 [Facebook](https://www.instagram.com/debrian.saragih/)
+
+
