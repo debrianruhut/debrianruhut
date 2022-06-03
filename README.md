@@ -2,12 +2,13 @@
 **Greetings** my name is **Debrian Ruhut Saragih** aka. ✨**debrianruhut**✨, I'm a self-taught passionate Web Developer. I like various things related to IT development, as well as solving problems with the help of computer applications (computational thinking).
 
 ## Websites:
-- 🤖 [debrianruhut.web.id](https://debrianruhut.web.id) / Personal Blog
-- 🤖 [KuliKode.com](https://kulikode.com) / Personal Corporate
-- 🤖 [MahasiswaOnline.com](https://mahasiswaonline.com) / Mencari bahan kuliah cepat dan mudah dari berbagai Universitas!
-- 🤖 [Solugram.com](https://solugram.com) / Kumpulan tools dan frameworks problem solving dan critical thinking
-- 🤖 [KidungOnline.com](https://kidungonline.com) / Kumpulan lagu-lagu rohani KJ, PKJ dan NKB
-- 🤖 [EkonomiKreatif.com](https://ekonomikreatif.com) / Kumpulan Artikel Seputar Ekonomi Kreatif
+- 🤖 [Solugram.com](https://solugram.com) / ©2020 - Kumpulan tools dan frameworks problem solving dan critical thinking
+- 🤖 [EkonomiKreatif.com](https://ekonomikreatif.com) / ©2020 - Kumpulan Artikel Seputar Ekonomi Kreatif
+- 🤖 [KuliKode.com](https://kulikode.com) / ©2018 - Personal Corporate
+- 🤖 [debrianruhut.web.id](https://debrianruhut.web.id) / ©2018 - Personal Blog
+- 🤖 [MahasiswaOnline.com](https://mahasiswaonline.com) / ©2015 - Mencari bahan kuliah cepat dan mudah dari berbagai Universitas!
+- 🤖 [KidungOnline.com](https://kidungonline.com) / ©2012 - Kumpulan lagu-lagu rohani KJ, PKJ dan NKB
+
 
 
 ## Activities
