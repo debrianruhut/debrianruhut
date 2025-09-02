@@ -4,7 +4,7 @@
 [Medium](https://medium.com/@debrianruhut)
 
 # Hi, welcome to My Github Repository <img src="assets/wave.gif" height="32px" />
-**Greetings** my name is **Debrian Ruhut Saragih** aka. ✨**debrianruhut**✨, I'm a self-taught passionate Web Developer. I like various things related to IT development, as well as solving problems with the help of computer applications (computational thinking). Adapt to new environments and IT Technology, and give solutions along with best practices.
+**Greetings** my name is **Debrian Ruhut Saragih** aka. ✨**debrianruhut**✨, I'm a self-taught passionate Web Developer. I like various things related to IT development, as well as solving problems with the help of computer applications (computational thinking). Adapt to new environments and IT, and give solutions along with best practices.
 
 ## Websites/Portfolios:
 - 🤖 [RapatPro.com](https://rapatpro.com) / ©2023 - Meeting and Attendance Management
@@ -17,8 +17,8 @@
 - 🤖 [KidungOnline.com](https://kidungonline.com) / ©2012 - Kumpulan lagu-lagu rohani KJ, PKJ dan NKB
 
 ## Activities
-- 🐘 Mostly my project using **PHP (Laravel Framework)**, because it is easy to deploy and my client wants me to use it, sometimes **Native PHP** only to proof **business logic** and then migrate it to other languages (Python, etc).
-- 🐍 I Create **python** script to scraping or crawling datas online, create several script for reading API, and hacking. I am not good in python, but i can debug and troubleshoot it.
+- 🐘 Mostly my project using **PHP (Laravel Framework)**, because it is easy to deploy and my client wants me to use it, sometimes **Native PHP** only to prove **business logic** and then migrate it to other languages (Python, etc).
+- 🐍 I create **Python** scripts for scraping or crawling data online, create several scripts for reading API, and hacking. I am not good at Python, but I can debug and troubleshoot it.
 - 🥞 Mostly i use **MYSQL/MARIADB**.
 - 🥞 rarely using **PostgreSQL** and **Oracle**, because only to import data from enterprises platform.
 - 🥞 I use **Postman** for testing API's.
@@ -30,11 +30,11 @@
 
 ## Statistics
 
-![GitHub Stats](https://github-readme-stats-yohanesgultom.vercel.app/api?username=debrianruhut&show_icons=true)
+![GitHub Stats](https://github-readme-stats-yohanesgultom.vercel.app/api?username=debrianruhut&show_icons=true) 
 
-![GitHub Top Langs](https://github-readme-stats-yohanesgultom.vercel.app/api/top-langs/?username=debrianruhut&layout=compact&langs_count=10&hide=html,css,tex)
+![GitHub Top Langs](https://github-readme-stats-yohanesgultom.vercel.app/api/top-langs/?username=debrianruhut&layout=compact&langs_count=10&hide=html,css,tex) 
 
-![GitHub Top Starred Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-star-repos?username=debrianruhut&repo_count=7)
+![GitHub Top Starred Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-star-repos?username=debrianruhut&repo_count=7) 
 
 ![GitHub Top Forked Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-fork-repos?username=debrianruhut&repo_count=7)
 
