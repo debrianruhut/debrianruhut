@@ -34,7 +34,10 @@
 
 ![GitHub Top Langs](https://github-readme-stats-yohanesgultom.vercel.app/api/top-langs/?username=debrianruhut&layout=compact&langs_count=10&hide=html,css,tex) 
 
-![GitHub Top Starred Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-star-repos?username=debrianruhut&repo_count=7) 
+<!--- ![GitHub Top Starred Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-star-repos?username=debrianruhut&repo_count=7) --->
 
-![GitHub Top Forked Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-fork-repos?username=debrianruhut&repo_count=7)
+<!--- ![GitHub Top Forked Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-fork-repos?username=debrianruhut&repo_count=7) --->
 
+![Debrian's GitHub Profile View Count](https://komarev.com/ghpvc/?username=debrianruhut)
+
+<sub>Last updated on 02 Sep, 2025.</sub>
